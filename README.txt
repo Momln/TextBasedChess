@@ -246,7 +246,7 @@ A checkmate function has yet to be implemented but the game is over once the kin
 
 To restart the game simply run the program again.
 
-OTHER FUNCTIONS
+~~~~OTHER FUNCTIONS~~~~
 
 MovePiece is not the only function that can be used in the game here are some other ones that the user can do to see what's going on in the game
 
